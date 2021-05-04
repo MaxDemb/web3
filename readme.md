@@ -4,4 +4,4 @@
 Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.<br>
 Інструменти розробки: мови HTML5, CSS3, фреймворки Twitter Bootstrap або Material UI<br>
 Звіт:<br>
-https://docs.google.com/document/d/1vXnYNujJBMi8BbmEKwT8_Aq7LB2arcw8ZShzlAZ-kVc/edit?usp=sharing
+https://docs.google.com/document/d/11GyH1aRd_9_AVZ7CsSh47GV9Mk7ulEYyoXob9pFQDYE/edit?usp=sharing
